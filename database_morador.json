@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "643934bf50c78aafd7fcd522"
+  },
+  "nome": "Natalia",
+  "documento": "77409003030",
+  "email": "natalia@gmail",
+  "senha": "$2b$10$rmtmEqP8Krg9INmfSzESaewYyL6NdR5u8tOtkyMvTXDwsnK8UEUR2",
+  "unidade": 608,
+  "bloco": "B",
+  "idade": 32,
+  "createdAt": {
+    "$date": "2023-04-14T11:08:03.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643934d750c78aafd7fcd525"
+  },
+  "nome": "Andre",
+  "documento": "09541441041",
+  "email": "andre@gmail",
+  "senha": "$2b$10$2./Q9g63dmNc4RRKT2nRpOPE0q7JmceriyWlHE3BeKapkM75GZHrW",
+  "unidade": 608,
+  "bloco": "B",
+  "idade": 34,
+  "createdAt": {
+    "$date": "2023-04-14T11:08:03.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643934e450c78aafd7fcd527"
+  },
+  "nome": "Ana Paula",
+  "documento": "01345237090",
+  "email": "ana.paula@gmail",
+  "senha": "$2b$10$TK/Qa83/K5dRlyi3Tfqi6eczXEB9UVIRfLwdArKm.gjhuQwadMmm2",
+  "unidade": 2001,
+  "bloco": "B",
+  "idade": 60,
+  "createdAt": {
+    "$date": "2023-04-14T11:08:03.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643934ef50c78aafd7fcd529"
+  },
+  "nome": "Igor",
+  "documento": "01345537090",
+  "email": "igor@gmail",
+  "senha": "$2b$10$nzlWroZHt6PPSKsQ5S2jy.Rj/sg1/QUqF11sWrUkdj1nGMb.gcRMu",
+  "unidade": 101,
+  "bloco": "A",
+  "idade": 45,
+  "createdAt": {
+    "$date": "2023-04-14T11:08:03.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d2bf5dc4c8f3581f769d5"
+  },
+  "nome": "Raul",
+  "documento": "78698643078",
+  "email": "raul@gmail",
+  "senha": "$2b$10$vnhkRzcKsDrsm8/Ab4rqNujmVegiO6Z7de.WdJ/h4YIJfK2Vp3ySW",
+  "unidade": 102,
+  "bloco": "A",
+  "idade": 30,
+  "createdAt": {
+    "$date": "2023-04-17T11:21:38.757Z"
+  },
+  "__v": 0
+}]

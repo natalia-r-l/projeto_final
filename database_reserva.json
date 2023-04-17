@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "64395158ab922a4dbd2f6dc4"
+  },
+  "lugar": "salao de jogos",
+  "data": "10/02/2023",
+  "morador": "Natalia",
+  "email": "natalia@gmail",
+  "unidade": 608,
+  "bloco": "B",
+  "taxa": 120,
+  "createdAt": {
+    "$date": "2023-04-14T13:11:26.978Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643952508be87677b9ebb2d2"
+  },
+  "lugar": "salao de jogos",
+  "data": "10/02/2023",
+  "morador": "Natalia",
+  "email": "natalia@gmail",
+  "unidade": 608,
+  "bloco": "B",
+  "taxa": 20,
+  "createdAt": {
+    "$date": "2023-04-14T13:15:18.791Z"
+  },
+  "__v": 0
+}]
