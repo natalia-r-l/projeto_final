@@ -1,6 +1,6 @@
-# Projeto Final Condomínio
+# Projeto Final - Sistema de reserva de ambientes para Condomínios
 
-DOIS CRUDS
+o projeto consiste em dois CRUDS
 Um CRUD para cadastro de moradores do condominio e outro CRUD para cadastro de reservas para áreas comuns do condomínio
 
 ## Massas para o banco:
