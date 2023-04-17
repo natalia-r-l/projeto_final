@@ -4,7 +4,7 @@ DOIS CRUDS
 Um CRUD para cadastro de moradores do condominio e outro CRUD para cadastro de reservas para áreas comuns do condomínio
 
 ## Massas para o banco:
-- Para utizar os endpoints precisa do token
+- É necessário o token para usar os endpoints
 
 ### Token:
 - POST http://localhost:3000/moradores/authorization
